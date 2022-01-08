@@ -25,5 +25,8 @@ Our goal is to predict the vehicle price using the open source Auto data set fro
 - Different types of feature selection tools
 - Regularization technique for linear regression
 
-![alt text](https://kulinpatel.com/wp-content/uploads/2021/05/car-price-prediction.png)
- 
+<p align="center">
+  <img src="https://miro.medium.com/max/1296/1*kQBj7l-Y1WPZfX9nKIYL1Q.jpeg">
+</p>
+
+
