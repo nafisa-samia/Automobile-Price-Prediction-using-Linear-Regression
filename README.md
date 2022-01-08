@@ -1,4 +1,4 @@
-# Regression-Analysis-on-Automobile-Dataset
+# Automobile-Price-Prediction-using-Linear-Regression
 
 **Libraries Used:**
 Pandas, scikit-learn, matplotlib 
